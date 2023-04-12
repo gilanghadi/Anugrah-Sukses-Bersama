@@ -1,0 +1,57 @@
+:root {
+  --main-clr: rgb(66, 66, 66);
+  --sec-clr: rgb(155, 155, 155);
+}
+
+.bg-main-clr {
+  background-color: var(--main-clr) !important;
+  box-shadow: 0 5px 13px var(--main-clr) !important;
+}
+
+.text-sec-clr {
+  color: var(--sec-clr) !important;
+}
+
+
+/* hero */
+.head {
+  font-size: 1.8rem;
+  margin-bottom: .6rem;
+  font-weight: 400;
+}
+
+.lead {
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+
+/* banner */
+.banner {
+  transition: .5s;
+  border-radius: 0 5px 10px var(--sec-clr);
+}
+
+/* contact */
+.form {
+  outline: none;
+  border-style: solid;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+}
+
+/* responsive */
+@media (min-width: 768px) {
+  .head {
+    font-size: 2.5rem;
+    font-weight: 300;
+  }
+
+  .banner:hover {
+    background-color: var(--main-clr) !important;
+    box-shadow: 0 7px 13px var(--main-clr) !important;
+    color: #fff !important;
+    transform: scale(1.1);
+  }
+
+}
