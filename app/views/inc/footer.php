@@ -2,7 +2,7 @@
   <div class="bg-main-clr">
     <div class="container py-5">
       <div class="row">
-        <div class="col-lg-4 text-white d-flex align-items-center">
+        <div class="col-lg-4 text-white d-flex align-items-center mb-5">
           <div class="d-flex">
             <img src="<?= BASEURL; ?>/public/img/logo.png" width="50" alt="PT. Alhadi Sukses Bersama">
             <a class="fs-5 navbar-brand text-white ms-3 d-flex align-items-center fw-semibold" style="border-width: 2px; border-bottom-color: #D8BC44; border-bottom-style:solid;" href="<?= BASEURL; ?>">Alhadi Sukses Bersama</a>

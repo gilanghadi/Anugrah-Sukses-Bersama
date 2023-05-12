@@ -1,4 +1,4 @@
-<section id="banner" style="z-index: 100; margin-top: -7rem">
+<section id="banner" style="z-index: 10">
   <div class="container pb-3">
     <div class="row">
       <div class="col-lg-6 my-3 pt-5 pt-lg-0">

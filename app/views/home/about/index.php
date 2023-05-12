@@ -12,7 +12,7 @@
           <span class="badge p-2" style="background-color: rgb(66, 66, 66);" data-aos="fade-down" data-aos-delay="200" data-aos-duration="1000">Exporter</span>
         </div>
         <div class="mt-2">
-          <h3 data-aos="fade-left">About Our Company</h3>
+          <h3 data-aos="fade-down">About Our Company</h3>
           <span class="d-block mb-3 text-sec-clr" data-aos="fade-up" data-aos-delay="1000">PT. Alhadi Sukses Bersama</span>
           <p data-aos="fade-right" data-aos-delay="1000" data-aos-duration="1000">Starting from a deep-scale spice commodity business
             country, we try to help local farmers to survive

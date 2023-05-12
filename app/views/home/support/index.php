@@ -5,22 +5,22 @@
       <hr style="border-color: #D8BC44; border-width: 3px;" width="70%" class="mx-auto">
     </div>
     <div class="row py-4 d-flex justify-content-center">
-      <div class="col-lg-3 mb-5">
+      <div class="col-sm-6 col-lg-3 mb-5 d-flex justify-content-center">
         <img src="<?= BASEURL ?>/public/img/part.jpeg" alt="" width="200">
       </div>
-      <div class="col-lg-3 mb-5">
+      <div class="col-sm-6 col-lg-3 mb-5 d-flex justify-content-center">
         <img src="<?= BASEURL ?>/public/img/part.jpeg" alt="" width="200">
       </div>
-      <div class="col-lg-3 mb-5">
+      <div class="col-sm-6 col-lg-3 mb-5 d-flex justify-content-center">
         <img src="<?= BASEURL ?>/public/img/part.jpeg" alt="" width="200">
       </div>
-      <div class="col-lg-3 mb-5">
+      <div class="col-sm-6 col-lg-3 mb-5 d-flex justify-content-center">
         <img src="<?= BASEURL ?>/public/img/part.jpeg" alt="" width="200">
       </div>
-      <div class="col-lg-3 mb-5">
+      <div class="col-sm-6 col-lg-3 mb-5 d-flex justify-content-center">
         <img src="<?= BASEURL ?>/public/img/part.jpeg" alt="" width="200">
       </div>
-      <div class="col-lg-3 mb-5">
+      <div class="col-sm-6 col-lg-3 mb-5 d-flex justify-content-center">
         <img src="<?= BASEURL ?>/public/img/part.jpeg" alt="" width="200">
       </div>
     </div>

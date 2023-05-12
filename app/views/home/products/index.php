@@ -8,7 +8,7 @@
         (black pepper, rice husk, rice grain).</p>
     </div>
     <div class="row mt-4">
-      <div class="col-lg-4 d-flex justify-content-center">
+      <div class="col-sm-6 col-lg-4 d-flex justify-content-center mb-5">
         <div class="border-0">
           <img src="<?= BASEURL ?>/public/img/part.jpeg" class="rounded-4" width="200" alt="">
           <div class="mt-4 text-center">
@@ -16,7 +16,7 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 d-flex justify-content-center">
+      <div class="col-sm-6 col-lg-4 d-flex justify-content-center mb-5">
         <div class="border-0">
           <img src="<?= BASEURL ?>/public/img/part.jpeg" class="rounded-4" width="200" alt="">
           <div class="mt-4 text-center">
@@ -24,7 +24,7 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 d-flex justify-content-center">
+      <div class="col-sm-6 col-lg-4 d-flex justify-content-center mb-5">
         <div class="border-0">
           <img src="<?= BASEURL ?>/public/img/part.jpeg" class="rounded-4" width="200" alt="">
           <div class="mt-4 text-center">
