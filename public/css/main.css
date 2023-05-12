@@ -1,17 +1,20 @@
 :root {
   --main-clr: rgb(66, 66, 66);
   --sec-clr: rgb(155, 155, 155);
+  --white: #fff;
 }
 
 .bg-main-clr {
   background-color: var(--main-clr) !important;
-  box-shadow: 0 5px 13px var(--main-clr) !important;
+}
+
+.text-main-clr {
+  color: var(--main-clr) !important;
 }
 
 .text-sec-clr {
   color: var(--sec-clr) !important;
 }
-
 
 /* hero */
 .head {

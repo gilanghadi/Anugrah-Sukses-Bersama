@@ -1,48 +1,34 @@
-<section id="product">
+<section id="product" class="pb-5">
   <div class="container mt-md-5 pt-md-5 mt-5">
     <div class="row">
-      <h1 class="head" data-aos="fade-up">We Have More Than <span class="fw-bold" style="color: rgb(66, 66, 66);">50</span> Herbs And Spices</h1>
-      <p class="lead text-sec-clr" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic, veritatis.</p>
+      <h1 class="head fw-semibold" data-aos="fade-up" style="color: rgb(66, 66, 66);">Our Products</h1>
+      <p class="lead text-sec-clr" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">Our main business is charcoal commodity which is a raw material
+        as well as ingredients for briquette. For charcoal materials that we produce such as:
+        charcoal (mix of hard wood, halaban, tamarind), (coconut shell charcoal) as well as dry spices in the form of:
+        (black pepper, rice husk, rice grain).</p>
     </div>
-    <div class="row">
-      <div class="col-lg-4">
-        <div class="bg-white d-flex align-items-center shadow-sm m-1 p-4 text-center " style="height: 100%;">
-          <div>
-            <img src="<?= BASEURL; ?>/public/img/big.jpeg" alt="" class="card-img-top mb-3">
-            <p class="fw-semibold" style="letter-spacing: 2px;">Lorem ipsum dolor</p>
-            <p class="text-sec-clr" style="margin-top: -.5rem;">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+    <div class="row mt-4">
+      <div class="col-lg-4 d-flex justify-content-center">
+        <div class="border-0">
+          <img src="<?= BASEURL ?>/public/img/part.jpeg" class="rounded-4" width="200" alt="">
+          <div class="mt-4 text-center">
+            <a href="#" class="btn bg-main-clr text-white">Read more</a>
           </div>
         </div>
       </div>
-      <div class="col-lg-8 flex-wrap">
-        <div class="row">
-          <div class="col-lg-6">
-            <div class="bg-white m-1 rounded-3 rounded-lg shadow-sm m-1 p-2 text-center">
-              <img src="<?= BASEURL; ?>/public/img/part.jpeg" alt="" class="mb-3" width="100">
-              <p class="fw-semibold" style="letter-spacing: 2px;">Lorem ipsum dolor</p>
-              <p class="text-sec-clr" style="margin-top: -.5rem;">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </div>
+      <div class="col-lg-4 d-flex justify-content-center">
+        <div class="border-0">
+          <img src="<?= BASEURL ?>/public/img/part.jpeg" class="rounded-4" width="200" alt="">
+          <div class="mt-4 text-center">
+            <a href="#" class="btn bg-main-clr text-white">Read more</a>
           </div>
-          <div class="col-lg-6">
-            <div class="bg-white m-1 rounded-3 rounded-lg shadow-sm m-1 p-2 text-center">
-              <img src="<?= BASEURL; ?>/public/img/part.jpeg" alt="" class="mb-3" width="100">
-              <p class="fw-semibold" style="letter-spacing: 2px;">Lorem ipsum dolor</p>
-              <p class="text-sec-clr" style="margin-top: -.5rem;">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="bg-white m-1 rounded-3 rounded-lg shadow-sm m-1 p-2 text-center">
-              <img src="<?= BASEURL; ?>/public/img/part.jpeg" alt="" class="mb-3" width="100">
-              <p class="fw-semibold" style="letter-spacing: 2px;">Lorem ipsum dolor</p>
-              <p class="text-sec-clr" style="margin-top: -.5rem;">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="bg-white m-1 rounded-3 rounded-lg shadow-sm m-1 p-2 text-center">
-              <img src="<?= BASEURL; ?>/public/img/part.jpeg" alt="" class="mb-3" width="100">
-              <p class="fw-semibold" style="letter-spacing: 2px;">Lorem ipsum dolor</p>
-              <p class="text-sec-clr" style="margin-top: -.5rem;">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </div>
+        </div>
+      </div>
+      <div class="col-lg-4 d-flex justify-content-center">
+        <div class="border-0">
+          <img src="<?= BASEURL ?>/public/img/part.jpeg" class="rounded-4" width="200" alt="">
+          <div class="mt-4 text-center">
+            <a href="#" class="btn bg-main-clr text-white">Read more</a>
           </div>
         </div>
       </div>
