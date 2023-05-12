@@ -10,19 +10,19 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav ms-auto">
         <li class="nav-item">
-          <a class="nav-link text-white" href="#hero">Home</a>
+          <a class="nav-link text-hover" href="#hero">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white" href="#about">About</a>
+          <a class="nav-link text-hover" href="#about">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white" href="#product">Products</a>
+          <a class="nav-link text-hover" href="#product">Products</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white" href="#team">Teams</a>
+          <a class="nav-link text-hover" href="#founder">Teams</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white" href="#contact">Contact</a>
+          <a class="nav-link text-hover" href="#contact">Contact</a>
         </li>
       </ul>
     </div>

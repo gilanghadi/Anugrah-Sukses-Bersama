@@ -47,6 +47,7 @@
   require_once "about/index.php";
   require_once "whatwedo/index.php";
   require_once "products/index.php";
+  require_once "galery/index.php";
   require_once "support/index.php";
   require_once "founder/index.php";
   require_once "contact/index.php";

@@ -1,8 +1,8 @@
 <section id="product" class="pb-5">
   <div class="container mt-md-5 pt-md-5 mt-5">
     <div class="row">
-      <h1 class="head fw-semibold" data-aos="fade-up" style="color: rgb(66, 66, 66);">Our Products</h1>
-      <p class="lead text-sec-clr" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">Our main business is charcoal commodity which is a raw material
+      <h1 class="head fw-semibold" style="color: #D5B946;" data-aos="fade-up">Our Products</h1>
+      <p class="lead text-white" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">Our main business is charcoal commodity which is a raw material
         as well as ingredients for briquette. For charcoal materials that we produce such as:
         charcoal (mix of hard wood, halaban, tamarind), (coconut shell charcoal) as well as dry spices in the form of:
         (black pepper, rice husk, rice grain).</p>

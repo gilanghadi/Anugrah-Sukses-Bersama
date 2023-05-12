@@ -18,6 +18,10 @@
           <div class="d-block">
             <h5 class="text-white">Address:</h5>
             <p class="text-sec-clr">Jl.kemanggisan Pulo 1,Kebun Jeruk, West Jakarta,DKI Jakarta, 11480</p>
+            <div class="text-white">
+              &copy; Alhadi Sukses Bersama
+              All right reserved.
+            </div>
           </div>
         </div>
       </div>
