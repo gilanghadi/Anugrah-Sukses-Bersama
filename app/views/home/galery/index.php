@@ -1,5 +1,5 @@
 <section id="whatwedo" class="shadow-none" style="background-color: rgb(66, 66, 66);">
-  <div class="container pb-5 my-5">
+  <div class="container mb-3 mt-5">
     <div class="pt-5 pb-1 text-center">
       <h3 class="fs-1 fw-boldbold  text-white" data-aos="fade-bottom" data-aos-delay="100" data-aos-duration="1000">Galery</h3>
       <hr style="border-color: #D8BC44; border-width: 3px;" width="70%" class="mx-auto">
@@ -9,25 +9,54 @@
         nice that can compete on
         local and global market</p>
     </div>
-    <div class="row py-4 d-flex justify-content-center">
-      <div class="col-sm-6 col-lg-3 mb-5 d-flex justify-content-center">
-        <img src="<?= BASEURL ?>/public/img/galery/1.jpeg" alt="" class="rounded-3" width="200">
+  </div>
+  <div class="pb-5">
+    <section class="splide mx-5" aria-label="Splide Basic HTML Example">
+      <div class="splide__track">
+        <ul class="splide__list">
+          <li class="splide__slide">
+            <div class="card border-0 mx-2">
+              <img src="<?= BASEURL ?>/public/img/galery/1.jpeg" alt="">
+            </div>
+          </li>
+          <li class="splide__slide">
+            <div class="card border-0 mx-2">
+              <img src="<?= BASEURL ?>/public/img/galery/2.jpeg" alt="">
+            </div>
+          </li>
+          <li class="splide__slide">
+            <div class="card border-0 mx-2">
+              <img src="<?= BASEURL ?>/public/img/galery/3.jpeg" alt="">
+            </div>
+          </li>
+          <li class="splide__slide">
+            <div class="card border-0 mx-2">
+              <img src="<?= BASEURL ?>/public/img/galery/4.jpeg" alt="">
+            </div>
+          </li>
+          <li class="splide__slide">
+            <div class="card border-0 mx-2">
+              <img src="<?= BASEURL ?>/public/img/galery/5.jpg" class="d-block" alt="">
+              <img src="<?= BASEURL ?>/public/img/galery/8.jpg" class="d-block" alt="">
+            </div>
+          </li>
+          <li class="splide__slide">
+            <div class="card border-0 mx-2">
+              <img src="<?= BASEURL ?>/public/img/galery/9.jpg" alt="">
+            </div>
+          </li>
+          <li class="splide__slide">
+            <div class="card border-0 mx-2">
+              <img src="<?= BASEURL ?>/public/img/galery/11.jpg" alt="">
+            </div>
+          </li>
+          <li class="splide__slide">
+            <div class="card border-0 mx-2">
+              <img src="<?= BASEURL ?>/public/img/galery/13.jpg" alt="">
+            </div>
+          </li>
+        </ul>
       </div>
-      <div class="col-sm-6 col-lg-3 mb-5 d-flex justify-content-center">
-        <img src="<?= BASEURL ?>/public/img/galery/2.jpeg" alt="" class="rounded-3" width="200">
-      </div>
-      <div class="col-sm-6 col-lg-3 mb-5 d-flex justify-content-center">
-        <img src="<?= BASEURL ?>/public/img/galery/3.jpeg" alt="" class="rounded-3" width="200">
-      </div>
-      <div class="col-sm-6 col-lg-3 mb-5 d-flex justify-content-center">
-        <img src="<?= BASEURL ?>/public/img/galery/4.jpeg" alt="" class="rounded-3" width="200">
-      </div>
-      <video controls class="col-sm-6 col-lg-3 mb-5 d-flex justify-content-center">
-        <source src="<?= BASEURL ?>/public/img/galery/5.mp4" type="video/mp4">
-      </video>
-      <video controls class="col-sm-6 col-lg-3 mb-5 d-flex justify-content-center">
-        <source src="<?= BASEURL ?>/public/img/galery/6.mp4" type="video/mp4">
-      </video>
-    </div>
+    </section>
   </div>
 </section>

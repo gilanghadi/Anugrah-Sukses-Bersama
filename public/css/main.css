@@ -2,6 +2,7 @@
   --main-clr: rgb(66, 66, 66);
   --sec-clr: rgb(155, 155, 155);
   --white: #fff;
+  --white-smooth: rgb(209, 209, 209);
 }
 
 .bg-main-clr {
@@ -16,6 +17,9 @@
   color: var(--sec-clr) !important;
 }
 
+.text-three {
+  color: var(--white-smooth);
+}
 
 .text-hover {
   color: #fff !important;
@@ -33,8 +37,8 @@
 /* hero */
 
 #hero {
-  background-image: url("../img/hero.jpg");
-  background-color: red;
+  background-image: url("http://localhost/asb/public/img/galery/5.jpg");
+  background-color: white;
   height: 500px;
   background-position: center;
   background-repeat: no-repeat;
@@ -66,13 +70,6 @@
   border-left: none;
   border-right: none;
   border-top: none;
-}
-
-#product {
-  background-image: url("../img/pngegg.png");
-  background-position: right bottom;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 /* responsive */

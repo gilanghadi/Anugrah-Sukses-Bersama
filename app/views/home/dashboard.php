@@ -22,6 +22,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
   <link rel="stylesheet" href="<?= BASEURL; ?>/public/css/main.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
 
   <style>
     #founder {
@@ -55,8 +56,23 @@
   ?>
   <script src="<?= BASEURL; ?>/public/js/bootstrap.js"></script>
   <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-  <script>
+  <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script type="text/javascript">
     AOS.init();
+
+    var image = document.getElementsByClassName('thumbnail');
+    new simpleParallax(image, {
+      scale: 1.5
+    });
+
+    var splide = new Splide('.splide', {
+      type: 'loop',
+      perPage: 3,
+      autoplay: true,
+    });
+
+    splide.mount();
   </script>
   <script src="<?= BASEURL; ?>/public/js/whatsapp.js"></script>
   <!-- <script type="text/javascript">

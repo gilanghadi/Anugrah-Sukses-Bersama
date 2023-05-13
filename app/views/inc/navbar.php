@@ -1,7 +1,6 @@
 <nav class="navbar navbar-expand-lg bg-main-clr fixed-top py-3" id="navbar">
   <div class="container-fluid px-4">
     <div class="d-flex">
-      <img src="<?= BASEURL; ?>/public/img/logo.png" width="50" alt="PT. Alhadi Sukses Bersama">
       <a class="d-none navbar-brand text-white ms-3 d-sm-flex align-items-center fw-semibold" style="border-width: 2px; border-bottom-color: #D8BC44; border-bottom-style:solid;" href="<?= BASEURL; ?>">Alhadi Sukses Bersama</a>
     </div>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
