@@ -1,7 +1,7 @@
 <section id="whatwedo">
   <div class="container pb-5 my-5">
     <div class="pt-5 pb-1 text-center">
-      <p class="fs-1 fw-semibold" data-aos="fade-bottom" data-aos-delay="100" data-aos-duration="1000">Supported At</p>
+      <p class="fs-1 fw-semibold" data-aos="zoom-in" data-aos-delay="100" data-aos-duration="1000">Supported At</p>
       <hr width="60%" class="mx-auto">
     </div>
     <div class="row py-4 d-flex justify-content-center">

@@ -1,5 +1,5 @@
-<section id="product" class="pb-5 parallax-window" data-parallax="scroll" data-image-src="<?= BASEURL ?>/public/img/galery/5.jpg">
-  <div class="container ">
+<section id="product" class="parallax-window" data-parallax="scroll" data-image-src="https://www.freepik.com/free-ai-image/central-computer-processor-with-neon-lights-integrated-microchip-circuit-board-server_39518198.htm#query=wallpaper&position=2&from_view=keyword&track=sph">
+  <div class="container position-relative">
     <div class="row">
       <h1 class="head fw-semibold text-main-clr" data-aos="fade-up">Our Products</h1>
       <p class="lead text-sec-clr" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">Our main business is charcoal commodity which is a raw material
