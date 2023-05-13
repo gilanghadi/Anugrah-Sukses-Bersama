@@ -6,7 +6,7 @@
     </div>
     <div class="row py-4 d-flex justify-content-center">
       <div class="col-sm-6 col-lg-3 mb-5 d-flex justify-content-center">
-        <img src="<?= BASEURL ?>/public/img/ministry.png" alt="" width="400">
+        <img src="<?= BASEURL ?>/public/img/ministry.png" alt="" width="200">
       </div>
       <div class="col-sm-6 col-lg-3 mb-5 d-flex justify-content-center">
         <img src="<?= BASEURL ?>/public/img/pengayoman.png" alt="" width="200">

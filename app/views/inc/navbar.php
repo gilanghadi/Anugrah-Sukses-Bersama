@@ -23,6 +23,10 @@
         <li class="nav-item">
           <a class="nav-link text-hover" href="#contact">Contact</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link text-hover bg-brown rounded-3 px-3" href="<?= BASEURL ?>/public/img/PT. Alhadi Sukses Bersama.pdf" download="PT. Alhadi Sukses Bersama.pdf">Download PDF</a>
+        </li>
+        <!-- want to know more about our company -->
       </ul>
     </div>
   </div>

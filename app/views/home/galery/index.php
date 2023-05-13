@@ -1,6 +1,6 @@
 <section id="whatwedo" class="shadow-none" style="background-color: rgb(66, 66, 66);">
-  <div class="container mb-lg-3 mt-5">
-    <div class="pt-5 pb-1 text-center">
+  <div class="container mb-lg-3">
+    <div class="pt-5 pb-lg-1 text-center">
       <h3 class="fs-1 fw-boldbold  text-white pb-3 col-6 mx-auto" data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000" style="border-width: 2px; border-bottom-style: solid; border-bottom-color: #D8BC44">Galery</h3>
       <p class="text-white fs-4" data-aos="fade-up">we work with
         local farmers and manufacturers to

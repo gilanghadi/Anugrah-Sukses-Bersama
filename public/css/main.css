@@ -23,7 +23,11 @@
 
 .text-hover {
   color: #fff !important;
-  transition: 2s;
+  transition: .1s;
+}
+
+.bg-brown {
+  background-color: #D5B946 !important;
 }
 
 .brown {
@@ -33,6 +37,7 @@
 .text-hover:hover {
   color: #D5B946 !important;
 }
+
 
 /* hero */
 
@@ -61,6 +66,17 @@
   transition: .5s;
   border-radius: 0 5px 10px var(--sec-clr);
 
+}
+
+/* parallax */
+.parallax {
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+#product {
+  background-image: url("http://localhost/asb/public/img/hero.jpg");
 }
 
 /* contact */

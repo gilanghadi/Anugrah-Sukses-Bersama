@@ -40,7 +40,7 @@
   <title>PT. Alhadi Sukses Bersama</title>
 </head>
 
-<body>
+<body class="parallax-window" data-parallax="scroll" data-image-src="https://www.freepik.com/free-ai-image/central-computer-processor-with-neon-lights-integrated-microchip-circuit-board-server_39518198.htm#query=wallpaper&position=2&from_view=keyword&track=sph">
   <?php
   require_once "app/views/inc/navbar.php";
   require_once "hero/index.php";
@@ -53,6 +53,7 @@
   require_once "founder/index.php";
   require_once "contact/index.php";
   require_once "app/views/inc/footer.php";
+  require_once "app/views/inc/modal.php";
   ?>
   <script src="<?= BASEURL; ?>/public/js/bootstrap.js"></script>
   <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
